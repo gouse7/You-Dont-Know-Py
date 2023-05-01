@@ -1,3 +1,4 @@
+# Functions
 
 <aside> 😎 **Functions in Python** Functions are used to encapsulate reusable code that can be called from other parts of a program. They allow you to break up a large program into smaller, more manageable parts, making your code easier to read, understand, and maintain.
 
