@@ -1,4 +1,3 @@
-# Functions
 
 <aside> 😎 **Functions in Python** Functions are used to encapsulate reusable code that can be called from other parts of a program. They allow you to break up a large program into smaller, more manageable parts, making your code easier to read, understand, and maintain.
 
@@ -237,5 +236,8 @@ a,b,c = my_tuple;
 - In Python, you can use the `yield` keyword instead of `return` to create a generator function that generates a sequence of values on the fly, instead of generating all of them at once. This is useful when dealing with large amounts of data that won't fit into memory all at once.
 # 4. [Arguments and Parameters](Arguments%20and%20Parameters.md)
 # 5. [Local variables and Global Variables](Local%20variables%20and%20Global%20Variables.md)
+# 6. [Lambda Functions](Lambda%20Functions.md)
+# 7. [Comprehensions](Comprehensions.md)
+# 8. [Special Functions](Special%20Functions.md)
 
 

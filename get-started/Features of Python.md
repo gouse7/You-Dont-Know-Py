@@ -60,7 +60,7 @@ There are **11 features** provided by python
 
 
 
-[[Data Types]]
+[[../core/Data Types]]
 
-[[Data Types]]
-[[Operators]]
+[[../core/Data Types]]
+[[../core/Operations/Operators]]

@@ -1,6 +1,6 @@
 
 
-### Fundamental category
+## Fundamental category
 
 #### int (integer)
 
@@ -271,13 +271,15 @@ my_list = [None] * 5
 print(my_list)  # Output: [None, None, None, None, None]
 ```
 
-### Sequence category
 
-### List category
+## Sequence category
 
-### Set category
 
-### Set Data Type
+## List category
+
+
+## Set category
+#### Set Data Type
 
 ```python
 s1 = {10, "Gouse", 34.56, "Python", "Hyd"}
@@ -350,9 +352,11 @@ Return the union of serts as new set
 Update a set with the union of itself and others
 
 
-### Dict category
 
-### Dict Data Type
+
+
+## Dict category
+#### Dict Data Type
 
 ```python
 # Create an empty dictionary
@@ -414,9 +418,15 @@ Properties:
 -   Dictionaries can raise **`KeyError`** if you try to access a key that doesn't exist. To avoid this, you can use the **`get`** method, which returns **`None`** if the key is not found.
 -   Since dictionaries are mutable, you need to be careful when using them as keys in other dictionaries or sets. Immutable types like strings or tuples are a safer choice for this purpose.
 
-### None Type category
 
-### Print()
+
+
+
+
+## None Type category
+
+
+## Print()
 
 The **`print()`** function in Python is used to output text or other data to the console or standard output stream. Here are some of the ways the **`print()`** function can be used in Python:
 

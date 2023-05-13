@@ -1,13 +1,12 @@
 
-<aside> 🧠 An **operator** is a symbol used to perform certain operations on given data and provide a result.
-
-</aside>
+An **operator** is a symbol used to perform certain operations on given data and provide a result.
 
 -   An expression is a collection of variables connected with an operator.
 -   Python has 7 operators, including arithmetic, assignment, relational, logical, bitwise, membership, and identity operators.
 -   Python does not support unary or ternary operators like other programming languages.
 -   Python has shorthand operators and its own ternary operator called the if...else operator.
-### **Arithmetic Operators**
+
+## **Arithmetic Operators**
 
 <aside> 😎 Arithmetic operators are used to perform mathematical operations on numbers. The arithmetic operators in Python include addition (+), subtraction (-), multiplication (*), division (/), modulus (%), exponentiation (**), and floor division (//).
 
@@ -43,7 +42,8 @@ d = 7 // 3
 print(d) # Output: 2
 ```
 
-### **Assignment Operator**
+
+## **Assignment Operator**
 
 <aside> 😎 Assignment operator is used to assign a value to a variable. The assignment operator in Python is **`=`**
 
@@ -55,7 +55,7 @@ x = 5
 print(x) # Output: 5
 ```
 
-### **Relational Operators**
+## **Relational Operators**
 
 >[!Intro] 😎 Relational operators are used to compare two values. The relational operators in Python include greater than (>), less than (<), equal to `==`), not equal to (!=), greater than or equal to (>=), and less than or equal to
 
@@ -85,7 +85,7 @@ c = 3 <= 5
 print(c) # Output: True
 ```
 
-#### **Logical Operators**
+## **Logical Operators**
 
 <aside> 😎 Logical operators are used to combine multiple conditions and return a boolean value. The logical operators in Python include and, or, and not.
 
@@ -116,7 +116,8 @@ print(y) # Output: True
 z = not(5 > 3)
 print(z) # Output: False
 ```
-#### **Bitwise Operators**
+
+### **Bitwise Operators**
 
 <aside> 😎 Bitwise operators are used to perform bitwise operations on numbers. The bitwise operators in Python include AND (&), OR (|), XOR (^), NOT (~), left shift (<<), and right shift (>>).
 
@@ -155,7 +156,7 @@ c = 5 >> 1
 print(c) # Output: 2 => which is( 5 / 2^1) (2.5) but c is integer
 ```
 
-#### **Membership Operators**
+## **Membership Operators**
 
 <aside> 😎 Membership operators are used to test whether a value is a member of a sequence or not. The membership operators in Python include in and not in.
 
@@ -171,7 +172,7 @@ y = 'z' not in 'hello'
 print(y) # Output: True
 ```
 
-#### **Identity Operators**
+## **Identity Operators**
 
 <aside> 😎 Identity operators are used to compare the memory addresses of two objects. The identity operators in Python include is and is not.
 

@@ -1,5 +1,5 @@
 
-### Indentation
+## Indentation
 
 We first need to know about Indentation.
 
@@ -37,7 +37,7 @@ We first need to know about Indentation.
     </aside>
     
 
-### if statement
+## if statement
 
 <aside> 😎 **if statement:** The if statement is used to execute a block of code if a condition is true. It follows the syntax:
 
@@ -143,7 +143,7 @@ else:
 5.  Make sure to handle all possible cases and unexpected input.
 6.  Avoid nesting if-else statements too deeply to keep your code readable and easy to understand.
 
-### match case statement
+## match case statement
 
 <aside> 😎 The **`match`**statement, also known as pattern matching, is a control flow statement that allows you to match a value against a set of patterns, and execute the code block associated with the first pattern that matches the value.
 
@@ -214,7 +214,7 @@ In this example, the **`get_day_of_week`**function uses a **`match`** statement 
 4.  Overcomplicating the patterns: It's important to keep the patterns simple and straightforward. If you try to match too many values or use too many nested patterns, your code can become hard to read and maintain.
 5.  Using **`match`** statement in older versions of Python: The **`match`** statement is a relatively new feature in Python 3.10, so it may not be available in older versions of Python. If you try to use the **`match`** statement in an older version of Python, you'll get a syntax error.
 
-### while loop
+## while loop
 
 <aside> 😎 A while loop is used to repeatedly execute a block of code as long as a boolean expression (condition) remains true.
 
@@ -372,7 +372,7 @@ Some additional notes on the **`continue`** statement:
 -   The **`continue`** statement can be used with any type of loop in Python, including **`while`** loops and **`for`** loops.
 -   If the **`continue`** statement is not used carefully, it can result in unexpected behavior or an infinite loop. Therefore, it's important to make sure that the **`continue`** statement is used only when necessary and placed in the correct part of the loop.
 
-### for loop
+## for loop
 
 <aside> 😎 The **`for`**loop is used to iterate over a sequence of values, such as a list, tuple, or string, and perform a certain action on each value.
 
