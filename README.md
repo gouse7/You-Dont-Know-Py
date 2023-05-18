@@ -18,6 +18,7 @@ These notes are just a starting point, and we intend to go deeper into each topi
 9. [Exception](core/Exception/Exception.md)
 10. [Decorators](core/Decorators/Decorators.md)
 11. [Random Module](modules/Random%20Module.md)
+12. [Files and Streams](core/Files%20and%20Streams/Files%20Introduction.md)
 
 ## Contributing
 
