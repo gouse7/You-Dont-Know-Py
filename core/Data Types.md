@@ -32,25 +32,23 @@ power = x ** 2
 
 **Binary, Ocatal, Hexadeciaml**
 
-<aside> 🧠 Python provides support for binary, hexadecimal, and octal literals for creating **`int`** objects in non-decimal bases.
+Python provides support for binary, hexadecimal, and octal literals for creating **`int`** objects in non-decimal bases.
 
 In the decimal number system (base 10), numbers are represented using 10 digits (0-9), with each digit representing a different power of 10. For example, the number 1234 in decimal notation is equal to:
 
-1_10^3 + 2_10^2 + 3_10^1 + 4_10^0 = 1000 + 200 + 30 + 4 = 1234
+`1_10^3 + 2_10^2 + 3_10^1 + 4_10^0 = 1000 + 200 + 30 + 4 = 1234
 
 Binary numbers, on the other hand, use only 2 digits (0 and 1) to represent numbers. Each digit in a binary number represents a power of 2, starting from the rightmost digit with 2^0. For example, the binary number 1011 is equal to:
 
-1_2^3 + 0_2^2 + 1_2^1 + 1_2^0 = 8 + 0 + 2 + 1 = 11
+`1_2^3 + 0_2^2 + 1_2^1 + 1_2^0 = 8 + 0 + 2 + 1 = 11
 
 Hexadecimal numbers use 16 digits (0-9 and A-F) to represent numbers. Each digit in a hexadecimal number represents a power of 16, starting from the rightmost digit with 16^0. For example, the hexadecimal number AB is equal to:
 
-10_16^1 + 11_16^0 = 160 + 11 = 171
+`10_16^1 + 11_16^0 = 160 + 11 = 171
 
 Octal numbers use 8 digits (0-7) to represent numbers. Each digit in an octal number represents a power of 8, starting from the rightmost digit with 8^0. For example, the octal number 73 is equal to:
 
-7_8^1 + 3_8^0 = 56 + 3 = 59
-
-</aside>
+`7_8^1 + 3_8^0 = 56 + 3 = 59
 
 > specific prefixes (`0b`for binary, `0x`for hexadecimal, and `0o`for octal).
 

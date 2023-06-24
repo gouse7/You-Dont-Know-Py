@@ -1,15 +1,17 @@
+## You Don't Know Py: Get Started 
+---
+## Chapter 1: What is Python?
+--- 
+### History
 
-Features of a language are nothing but, `services or facilities` provided by language developers. They are available in languages, used by language programmers.
+Python was created in _**1989**_ by _**Guido van Rossum**_, a Dutch programmer who worked at the National Research Institute for Mathematics and Computer Science in the Netherlands. He named it after the British comedy group Monty Python. 
+The first version of Python, version 0.9.0, was released in 1991. It was a simple interpreter with basic data types, control structures, and functions.In 1994, Python 1.0 was released, which included new features such as lambda, map, filter, and reduce. Python 2.0 was released in 2000, with major new features such as list comprehensions, a garbage collector, and support for Unicode.Python 3.0 was released in 2008, with significant changes to the language that were not backward-compatible with previous versions. Some of the major changes included print becoming a function, integer division returning a float, and a change in the way strings are handled.Since the release of Python 3.0, there have been many minor releases in the 3.x series, with each release adding new features and improvements. The latest stable release as of 2021 is Python 3.10. Python has become one of the most popular programming languages in the world, used by developers in many different industries and applications, from web development to machine learning. Python has a large and active community of developers, who have created many third-party packages and libraries that can be used to extend the functionality of Python. Some of the popular third-party packages and libraries for Python include NumPy, Pandas, Matplotlib, SciPy, and TensorFlow.
 
-There are **11 features** provided by python
-
-## Simple Programming Language
+### Simple Programming Language
 
 Python is considered a simple programming language mainly because of 3 reasons
 1. **Rich Set of Modules**: One of the key factors that contribute to Python's simplicity is its rich set of modules. Python comes with a large standard library that includes pre-written code modules for performing various tasks such as handling dates and times, parsing files, sending email, and more. These modules allow developers to write code quickly and easily without having to reinvent the wheel. Developers can also create their own modules and share them with others, further expanding the usefulness of Python.
-   
 2. **Memory Management**: Python's memory management is another factor that contributes to its simplicity. Python uses a technique called garbage collection, which automatically frees up memory that is no longer needed by the program. This means that developers don't have to worry about manually allocating and deallocating memory, making it easier to write code without having to deal with low-level memory details.
-   
 3. **Easy-to-Read Syntax**: Python's syntax is easy to read and understand, with a simple and straightforward syntax that uses plain English words and fewer symbols compared to other programming languages. This makes it easier for developers to write code quickly and with fewer errors. Python's syntax also uses indentation to indicate blocks of code, making it easy to read and understand the structure of the code. This feature is particularly helpful for beginners who are learning to code, as it helps them to focus on the logic of their code rather than getting bogged down in syntax details.
 
 ## Freeware and open source
@@ -32,7 +34,6 @@ Python is considered a simple programming language mainly because of 3 reasons
 
 5. Python's platform independence makes it an ideal choice for developing cross-platform applications, web services, and software tools. It also makes it easier for developers to work in different environments and collaborate with other developers who may be using different platforms.
 
-
 ## Dynamically typed language
 
 1.  Python is a Dynamically Typed Language. This means that when a variable is assigned a value, Python automatically assigns a data type to that variable based on the value assigned to it.
@@ -51,6 +52,7 @@ There are two types of languages,
 
 2. **Dynamically Typed languages** are programming languages where the type of a variable is determined automatically at runtime based on the value assigned to it. The type of a variable can be changed at any time during runtime by assigning a new value with a different data type. Examples of Dynamically Typed languages include Python, Ruby, JavaScript, and PHP.
 
+
 ## Interpreted Programming Language
 
 1. Python is an interpreted programming language. This means that the Python code is executed directly by the Python interpreter, without the need for compilation into machine code.
@@ -67,6 +69,8 @@ There are two types of languages,
 
 7. Python's interpreted nature makes it a popular choice for web development, scientific computing, machine learning, and other areas where rapid prototyping and ease of use are more important than raw performance.
 
+
+
 ## High Level
     
 ## Robust (Strong)
@@ -80,9 +84,5 @@ There are two types of languages,
 ## Supports third party APIs such as NumPY, pandas
 
 
-
-Next..
-
-[Data Types](../core/Data%20Types.md)
-
-[Operators](../core/Operations/Operators.md)
+Features of a language are nothing but, `services or facilities` provided by language developers. They are available in languages, used by language programmers.
+There are **11 features** because of which python is widely used and recognised.

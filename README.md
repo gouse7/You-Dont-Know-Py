@@ -5,10 +5,9 @@ Welcome to the You Don't know Py repository! Here you will find a collection of 
 
 These notes are just a starting point, and we intend to go deeper into each topic as we continue to build out this repository. 
 
-## Index
+## Suggested order
 
-1. [History and Versions](get-started/History%20and%20Versions.md)
-2. [Features of Python](get-started/Features%20of%20Python.md)
+1. [Get Started](get-started/README.md)
 3. [Operators](core/Operations/Operators.md)
 4. [Data Types](core/Data%20Types.md)
 5. [Flow Control](core/Flow%20Control.md)
